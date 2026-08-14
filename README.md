@@ -13,7 +13,7 @@ contains weekly notes, key learnings, and hands-on practice logs.
 
 | Week | Topic | Status |
 |------|-------|--------|
-| [Week 1](./week1-aws-basics/README.md) | AWS Basics & IAM | ✅ Done |
+| [Week 1](./week1-aws-basics) | AWS Basics & IAM | ✅ Done |
 | Week 2 | S3 (Storage) | 🔄 Coming up |
 | Week 3 | EC2 (Compute) | ⏳ Planned |
 
