@@ -21,4 +21,6 @@ contains weekly notes, key learnings, and hands-on practice logs.
 AWS · Linux · IAM · S3 · Cloud Fundamentals
 
 ## 🤝 Connect with Me
-[LinkedIn](#) · [Portfolio](#)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/aartimali30)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aartimali207@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-a78bfa?style=for-the-badge&logo=google-chrome&logoColor=white)](http://aarti-mali-portfolio.s3-website.ap-south-1.amazonaws.com)
