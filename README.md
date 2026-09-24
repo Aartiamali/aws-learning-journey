@@ -13,9 +13,9 @@ contains weekly notes, key learnings, and hands-on practice logs.
 
 | Week | Topic | Status |
 |------|-------|--------|
-| [Week 1](./week1-aws-basics) | AWS Basics & IAM | ✅ Done |
-| Week 2 | S3 (Storage) | 🔄 Coming up |
-| Week 3 | EC2 (Compute) | ⏳ Planned |
+| [Week 1](./aws-basics/README.md) | AWS Basics & IAM | ✅ Done |
+| [Week 2](./amazon-s3/README.md) | S3 (Storage) | ✅ Done |
+| Week 3 | EC2 (Compute) |  🔄 Coming up  |
 
 ## 🛠️ Tools & Skills
 AWS · Linux · IAM · S3 · Cloud Fundamentals
